@@ -1,0 +1,396 @@
+NAME,CLASS,GAME PROGRESSION,DPS (SINGLE TARGET),DPS (MULTI TARGET),DPS (SINGLE TARGET + PROYECTILE ONLY),DPS (MULTI TARGET + PROYECTILE ONLY),OBSERVATIONS
+Zenith,Melee,Post-Moonlord,4800,13000.0,,,
+Last Prism,Mage,Post-Moonlord,3657,1142.0,,,Fully charged
+Star Wrath,Melee,Post-Moonlord,2700,5800.0,1500.0,3700.0,
+Terrarian,Melee,Post-Moonlord,2200,4600.0,700.0,1000.0,
+Meowmere,Melee,Post-Moonlord,2100,6400.0,1300.0,3400.0,
+Lunar Flare,Mage,Post-Moonlord,1974,5543.0,,,
+Celebration Mk.2,Ranger,Post-Moonlord,1709,2821.0,,,If all rockets hit
+Solar Eruption,Melee,Post-Cultist,1500,4300.0,,,Close to target
+Bubble Gun,Mage,Post-WoF,1467,,,,Does not pierce
+Starlight,Melee,Post-EoL,1300,4000.0,,,
+S.D.M.G,Ranger,Post-Moonlord,1256,,,,Does not pierce
+Nebula Arcanum,Mage,Post-Cultist,1254,2183.0,,,
+Laser Machine Gun,Mage,Post-Golem,1210,,,,Does not pierce
+Flying Dragon,Melee,Post-Plantera,1200,3100.0,600.0,2100.0,
+Daybreak,Melee,Post-Cultist,1100,,,,Doesn't Pierce
+Nebula Blaze,Mage,Post-Cultist,1094,2123.0,,,
+Razor Pine,Mage,Post-Plantera,1067,,,,
+Stellar Tune,Mage,Post-EoL,1056,3073.0,,,
+Vortex Beater,Ranger,Post-Cultist,976,1060.0,,,If all bullets  hit
+Charged Blaster Cannon,Mage,Post-Golem,949,2620.0,,,Full charge
+Nightglow,Mage,Post-EoL,914,914.0,,,
+Sky Dragon's Fury,Melee,Post-Plantera,800,3200.0,600.0,1200.0,Proyectiles
+Eventide,Ranger,Post-EoL,779,2133.0,,,
+Phantasm,Ranger,Post-Cultist,752,,,,If all arrows hit
+Blizzard Staff,Mage,Post-Plantera,750,1200.0,,,
+Tsunami,Ranger,Post-WoF,742,,,,"If all arrows hit, is post wof because it can be obtained from duke at start of hm"
+Christmas Tree Sword,Melee,Post-Plantera,720,1200.0,600.0,1100.0,
+Terra Blade,Melee,Post-Plantera,700,1400.0,400.0,850.0,
+Xenopopper,Ranger,Post-Golem,691,,,,Does not pierce
+Seedler,Melee,Post-Plantera,650,1100.0,400.0,600.0,
+The Eye of Cthulhu,Melee,Post-Plantera,650,1000.0,,,
+Betsy's Wrath,Mage,Post-Golem,635,2224.0,,,
+Nail Gun,Ranger,Post-Plantera,633,1246.0,,,
+Electrosphere Launcher,Ranger,Post-Golem,614,1888.0,,,
+Jack 'O Lantern Launcher,Ranger,Post-Plantera,613,1348.0,,,
+Bat Scepter,Mage,Post-Plantera,600,,,,Does not pierce
+Influx Waver,Melee,Post-Plantera,600,1300.0,500.0,,Doesn't Pierce
+Kraken,Melee,Post-Plantera,600,700.0,,,
+Psycho Knife,Melee,Post-Plantera,600,2000.0,,,
+Stake Launcher,Ranger,Post-Plantera,599,1534.0,,,
+Chain Gun,Ranger,Post-Plantera,590,,,,If all bullets hit
+Stardust Dragon Staff,Summoner,Post-Cultist,580,1700.0,,,
+Aerial Bane,Ranger,Post-Plantera,564,2732.0,,,If all arrows hit
+Piranha Gun,Ranger,Post-Plantera,553,,,,"Does not pierce, if all piranhas hit"
+Elf Melter,Ranger,Post-Plantera,530,1446.0,,,
+Vampire Knives,Melee,Post-Plantera,520,520.0,,,
+Heat Ray,Mage,Post-Golem,512,,,,Does not pierce
+Tactical Shotgun,Ranger,Post-Plantera,507,,,,If all pellets hit
+Fetid Baghnakhs,Melee,Post-WoF,500,1500.0,,,
+Flairon,Melee,Post-WoF,500,500.0,,,Doesn't Pierce
+Paladin's Hammer,Melee,Post-Plantera,500,1200.0,,,
+Spectre Staff,Mage,Post-Plantera,500,520.0,,,
+Valkyrie Yoyo,Melee,Post-Destroyer,500,600.0,,,
+Venom Staff,Mage,Post-WoF,460,1100.0,,,
+Keybrand,Melee,Post-Plantera,450,950.0,,,
+Razonblade Typhoon,Mage,Post-WoF,450,1600.0,,,
+Snowman Cannon,Ranger,Post-Plantera,444,1636.0,,,
+Sniper Rifle,Ranger,Post-Plantera,431,1281.0,,,
+Leaf Blower,Mage,Post-Golem,428,,,,Does not pierce
+Candy Corn Rifle,Ranger,Post-Plantera,425,1152.0,,,
+Kaleidoscope,Summoner,Post-EoL,420,1200.0,,,
+Resonance Scepter,Mage,Post-Plantera,410,1050.0,,,
+Venus Magnum,Ranger,Post-Plantera,406,1096.0,,,
+Possessed Hatchet,Melee,Post-Golem,400,1000.0,,,
+Red's Throw,Melee,Post-Destroyer,400,500.0,,,
+The Horseman's Blade,Melee,Post-Plantera,400,1200.0,,,Without projectiles
+Toxic Flask,Mage,Post-Plantera,398,984.0,,,
+Rocket Launcher,Ranger,Post-Plantera,385,957.0,,,
+Stynger,Ranger,Post-Golem,383,1030.0,,,
+Flamethrower,Ranger,Post-SkeletronPrime,365,903.0,,,
+Super Star Shooter,Ranger,Post-SkeletronPrime,363,1140.0,,,
+Dark Harvest,Summoner,Post-Plantera,350,950.0,,,
+Death Sickle,Melee,Post-SkeletronPrime,350,900.0,300.0,750.0,Only 2 Dummies
+Rainbow Crystal Staff,Summoner,Post-Moonlord,350,1000.0,,,
+Tome of Infinite Wisdom,Mage,Post-Destroyer,350,,,,
+Magnet Sphere,Mage,Post-SkeletronPrime,333,334.0,,,
+Grenade Launcher,Ranger,Post-Plantera,330,1055.0,,,
+Meteor Staff,Mage,Post-WoF,330,850.0,,,
+Ghastly Glaive,Melee,Post-Destroyer,320,1000.0,,,
+Unholy Trident,Mage,Post-WoF,315,942.0,,,
+Onyx Blaster,Ranger,Post-WoF,312,456.0,,,If all pellets hit
+Anchor,Melee,Post-WoF,300,400.0,,,Only 2 Dummies
+Arkhalis,Melee,Post-Destroyer,300,920.0,,,
+Breaker Blade,Melee,Post-WoF,300,800.0,,,
+Chlorophyte Saber,Melee,Post-SkeletronPrime,300,750.0,150.0,650.0,
+Chlorophyte Shotbow,Ranger,Post-SkeletronPrime,300,,,,"Does not pierce, if all arrows hit"
+Cholrophyte Claymore,Melee,Post-SkeletronPrime,300,1000.0,70.0,250.0,
+Code 2,Melee,Post-Destroyer,300,500.0,,,
+Drippler Crippler,Melee,Post-WoF,300,800.0,80.0,150.0,Only 2 Dummies
+Flower Pow,Melee,Post-Plantera,300,1100.0,,,
+Golem Fist,Melee,Post-Golem,300,1000.0,,,Doesn't Pierce
+Gungnir,Melee,Post-Destroyer,300,900.0,,,
+Light Disc,Melee,Post-Destroyer,300,750.0,,,
+Morning Star,Summoner,Post-Plantera,300,850.0,,,
+North Pole,Melee,Post-Plantera,300,750.0,250.0,650.0,
+Sleepy Octopod,Melee,Post-Destroyer,300,1000.0,,,
+True Night's Edge,Melee,Post-SkeletronPrime,300,450.0,150.0,200.0,
+Yelets,Melee,Post-Destroyer,300,400.0,,,
+Megashark,Ranger,Post-Destroyer,292,,,,
+Wasp Gun,Mage,Post-Plantera,286,769.0,,,
+Pulse Bow,Ranger,Post-SkeletronPrime,282,771.0,,,
+Spirit Flame,Mage,Post-WoF,281,323.0,,,
+Celebration,Ranger,Post-Golem,280,842.0,,,If all rockets hit
+Crystal Storm,Mage,Post-WoF,280,,,,Does not pierce
+Sky Fracture,Mage,Post-WoF,280,330.0,,,
+Staff of Earth,Mage,Post-Golem,280,840.0,,,
+Star Cannon,Ranger,Post-Brain/Worm,280,786.0,,,Is Pre-Boss because it can be obtained from 1 blood/shadow orb
+Toxikarp,Ranger,Post-WoF,272,,,,Does not pierce
+Rainbow Gun,Mage,Post-Plantera,271,824.0,,,
+Brand of the Inferno,Melee,Post-Plantera,270,900.0,,,
+Clinger Staff,Mage,Post-WoF,270,520.0,,,
+Shadowbeam Staff,Mage,Post-Plantera,270,750.0,,,
+Waffle's Iron,Melee,Post-SkeletronPrime,270,550.0,150.0,,
+Uzi,Ranger,Post-WoF,260,630.0,,,
+Magical Harp,Mage,Post-Twins,254,712.0,,,
+Poison Staff,Mage,Post-WoF,254,732.0,,,
+Bananarang,Melee,Post-WoF,250,750.0,,,
+Chain Guillotines,Melee,Post-WoF,250,500.0,,,Only 2 Dummies
+Gatlingator,Ranger,Post-WoF,250,,,,Bought from the travelling in hm
+Ice Sickle,Melee,Post-WoF,250,450.0,300.0,350.0,Only Pierces 2 Dummies
+Mushroom Spear,Melee,Post-Destroyer,250,750.0,,,
+Nettle Burst,Mage,Post-Plantera,250,670.0,,,
+Obsidian Swordfish,Melee,Post-WoF,250,1100.0,,,
+True Excalibur,Melee,Post-Plantera,250,800.0,,,
+Phantom Phoenix,Ranger,Post-Destroyer,242,370.0,,,
+Adamantite Glaive,Melee,Post-WoF,240,500.0,,,
+Chlorophyte Partisan,Melee,Post-SkeletronPrime,240,800.0,300.0,880.0,
+Quad-Barrel Shotgun,Ranger,Post-Skeletron,240,,,,Does not pierce
+Titanium Trident,Melee,Post-WoF,240,540.0,,,
+Nimbus Rod,Mage,Post-WoF,237,342.0,,,Can hit 2 dummies
+Magic Dagger,Mage,Post-WoF,223,621.0,,,Pierces 2 dummies
+Chik,Melee,Post-WoF,220,270.0,,,
+Cursed Flame,Mage,Post-WoF,220,443.0,,,Pierces 2 dummies
+Cutlass,Melee,Post-WoF,220,600.0,,,
+Dao of Pow,Melee,Post-WoF,220,850.0,,,
+Demon Scythe,Mage,Pre-Boss,220,400.0,,,
+Frostbrand,Melee,Post-WoF,220,540.0,80.0,250.0,
+Mythril Halberd,Melee,Post-WoF,220,450.0,,,
+Orichalcum Halber,Melee,Post-WoF,220,580.0,,,
+Inferno Fork,Mage,Post-Plantera,218,923.0,,,
+Book of skulls,Mage,Post-Skeletron,210,230.0,,,
+Orange Zapinator,Mage,Post-WoF,210,608.0,,,Difficult to read due to nature
+Palladium Pike,Melee,Post-WoF,210,530.0,,,
+Shadowflame Knife,Melee,Post-WoF,210,350.0,,,
+Terragrim,Melee,Pre-Boss,210,620.0,,,
+Ice Rod,Mage,Post-WoF,206,,,,Does not pierce
+Ice Bow,Ranger,Post-WoF,203,,,,
+Shotgun,Ranger,Post-WoF,203,203.0,,,If all pellets hit
+Shadowflame Bow,Ranger,Post-WoF,202,526.0,,,Inflicts shadowflame
+Hallowed Reapeter,Ranger,Post-Destroyer,201,,,,Does not pierce
+Adamantite Sword,Melee,Post-WoF,200,550.0,,,
+Amarok,Melee,Post-WoF,200,230.0,,,Only 2 Dummies
+Beam Sword,Melee,Post-WoF,200,550.0,80.0,,Doesn't Pierce
+Clockwork Assault Rifle,Ranger,Post-WoF,200,,,,Does not pierce
+Excalibur,Melee,Post-Destroyer,200,700.0,,,
+Format:C,Melee,Post-WoF,200,250.0,,,
+Frost Staff,Mage,Post-WoF,200,380.0,,,
+Gradient,Melee,Post-WoF,200,200.0,,,
+Hel-Fire,Melee,Post-WoF,200,250.0,,,Only 2 Dummies
+KO Cannon,Melee,Post-WoF,200,420.0,,,Only 2 Dummies
+Scourge of the Corruptor,Melee,Post-Plantera,200,220.0,,,Doesn't Pierce
+Slap Hand,Melee,Post-WoF,200,500.0,,,
+Marrow,Ranger,Post-WoF,197,,,,Does not pierce
+Dark Lance,Melee,Post-Skeletron,190,400.0,,,
+Life Drain,Mage,Post-WoF,190,560.0,,,Does not pierce
+Rainbow Rod,Mage,Post-Twins,190,400.0,,,
+Shadowflame Hex Doll,Mage,Post-WoF,182,572.0,,,
+Bladetongue,Melee,Post-WoF,180,550.0,,,Spits Ichor
+Cobalt Naginata,Melee,Post-WoF,180,400.0,,,
+Flower of Frost,Mage,Post-WoF,180,,,,Does not pierce
+Ham Bat,Melee,Post-WoF,180,530.0,,,
+Orichalcum Sword,Melee,Post-WoF,180,450.0,,,
+Phasesaber,Melee,Post-WoF,180,570.0,,,
+Titanium Repeater,Ranger,Post-WoF,172,,,,Does not pierce
+Durendal,Summoner,Post-Destroyer,170,450.0,,,
+Lunar Portal Staff,Summoner,Post-Moonlord,170,600.0,,,
+Blood Thorn,Mage,Pre-Boss,165,302.0,,,
+Medusa Head,Mage,Post-WoF,164,492.0,,,Short Range
+Adamantite Repeater,Ranger,Post-WoF,163,,,,Does not pierce
+Phoenix Blaster,Ranger,Post-Skeletron,162,,,,Does not pierce
+Crystal Vile Shard,Mage,Post-WoF,161,481.0,,,
+Ballista Staff,Summoner,Post-Golem,160,420.0,,,
+Mythril Sword,Melee,Post-WoF,160,450.0,,,
+Sunfury,Melee,Post-Skeletron,160,450.0,,,
+Proximity Mine Launcher,Ranger,Post-Plantera,152,664.0,,,
+Orichalcum Repeater,Ranger,Post-WoF,151,,,,Does not pierce
+Cool Whip,Summoner,Post-WoF,150,350.0,35.0,75.0,
+Desert Tiger Staff,Summoner,Post-Plantera,150,340.0,,,
+Flower of Fire,Mage,Post-Skeletron,150,,,,Does not pierce
+Lasser Rifle,Mage,Post-WoF,150,470.0,,,
+Sergeant United Shield,Melee,Post-WoF,150,400.0,,,
+Titanium Sword,Melee,Post-WoF,150,550.0,,,
+Daedalus Stormbow,Ranger,Post-WoF,145,360.0,,,Difficult measure
+Cobalt Sword,Melee,Post-WoF,140,400.0,,,
+Terraprisma,Summoner,Post-EoL,140,490.0,,,If daylight
+Boomstick,Ranger,Pre-Boss,132,132.0,,,"If all pellets hit, Does not pierce"
+Blue Moon,Melee,Post-Skeletron,130,400.0,,,
+Cascade,Melee,Post-Skeletron,130,130.0,,,
+Combat Wrench,Melee,Post-Skeletron,130,450.0,,,
+Flamarang,Melee,Post-Brain/Worm,130,180.0,,,
+Flying Knife,Melee,Post-WoF,130,450.0,,,
+Handgun,Ranger,Post-Skeletron,130,,,,Does not pierce
+Palladium Sword,Melee,Post-WoF,130,400.0,,,
+Starfury,Melee,Pre-Boss,130,260.0,50.0,110.0,Only 2 Dummies
+Mythril Repeater,Ranger,Post-WoF,128,,,,Does not pierce
+Hellwing Bow,Ranger,Post-Skeletron,120,320.0,,,
+Pearlwood Sword,Melee,Pre-Boss,120,370.0,,,
+Valor,Melee,Post-Skeletron,120,150.0,,,
+The Bee's Knees,Ranger,Post-QueenBee,117,190.0,,,Damage does not take the bees follow up damage into consideration
+Palladium repeater,Ranger,Post-WoF,116,,,,Does not pierce
+Sandgun,Ranger,Pre-Boss,113,,,,Does not pierce
+Bone,Ranger,Post-Skeletron,112,,,,Does not pierce
+Bladed Glove,Melee,Pre-Boss,110,350.0,,,
+Dart Rifle,Ranger,Post-WoF,110,,,,Does not pierce
+Golden Shower,Mage,Post-WoF,110,336.0,,,Inflicts Ichor
+Harpoon,Ranger,Pre-Boss,110,,,,Is Pre-Boss because it can be obtained from 1 blood/shadow orb
+Hive-Five,Melee,Post-QueenBee,110,130.0,,,
+Molten Fury,Ranger,Post-Skeletron,110,,,,Does not pierce
+Night's Edge,Melee,Post-SkeletronPrime,110,310.0,,,
+Staff of the Frost Hydra,Summoner,Post-Plantera,110,300.0,,,
+Storm Spear,Melee,Pre-Boss,110,200.0,50.0,,Doesn't Pierce
+Swordfish,Melee,Pre-Boss,110,240.0,,,
+Xeno Staff,Summoner,Post-Golem,110,,,,Does not pierce
+Cobalt repeater,Ranger,Post-WoF,107,,,,Does not pierce
+Pew-matic Horn,Ranger,Post-Deerclops,104,,,,Does not pierce
+Minishark,Ranger,Pre-Boss,102,,,,Does not pierce
+Bee Keeper,Melee,Post-QueenBee,100,280.0,,,
+Flamelash,Mage,Post-Skeletron,100,180.0,,,
+Phaseblade,Melee,Post-Brain/Worm,100,250.0,,,
+Stardust Cell Staff,Summoner,Post-Cultist,100,300.0,,,Does not pierce
+Tempest Staff,Summoner,Post-WoF,100,,,,Does not pierce
+Thorn Chakram,Melee,Pre-Boss,100,280.0,,,
+Bee Gun,Mage,Post-QueenBee,95,270.0,,,
+Dart Pistol,Ranger,Post-WoF,90,,,,Does not pierce
+Enchanted Sword,Melee,Pre-Boss,90,220.0,30.0,,Doesn't Pierce
+Explosive Trap Staff,Summoner,Post-Golem,90,245.0,,,
+Firecracker,Summoner,Post-WoF,90,200.0,,,
+Gladius,Melee,Pre-Boss,90,200.0,,,
+Gray Zapinator,Mage,Post-Eye,90,120.0,,,Difficult to measure
+Frost Daggerfish,Ranger,Pre-Boss,86,256.0,,,
+Revolver,Ranger,Pre-Boss,86,,,,Is Pre-Boss because it can be obtained after 1 blood/shadow orb has been broken
+Code 1,Melee,Post-Eye,85,110.0,,,
+Amazon,Melee,Pre-Boss,80,80.0,,,
+Bloody Machete,Melee,Pre-Boss,80,160.0,,,Only 2 Dummies
+Deadly Sphere Staff,Summoner,Post-SkeletronPrime,80,320.0,,,
+Falcon Blade,Melee,Pre-Boss,80,220.0,,,
+Fruitcake Chakram,Melee,Pre-Boss,80,80.0,,,
+Musket,Ranger,Pre-Boss,80,,,,Is Pre-Boss because it can be obtained from 1 blood/shadow orb
+Optic Staff,Summoner,Post-Twins,80,280.0,,,
+Paintball Gun,Ranger,Pre-Boss,80,,,,Does not pierce
+Raven Staff,Summoner,Post-Plantera,80,,,,Does not pierce
+Spider Staff,Summoner,Post-WoF,80,230.0,,,
+The Undertaker,Ranger,Pre-Boss,80,,,,Is Pre-Boss because it can be obtained from 1 blood/shadow orb
+Flintlock Pistol,Ranger,Pre-Boss,76,,,,Does not pierce
+Muramasa,Melee,Post-Skeletron,75,250.0,,,
+Water Bolt,Mage,Post-Skeletron,72,282.0,,,"It can be obtained in pre boss, but normally post skeletron"
+Aqua Scepter,Mage,Post-Skeletron,71,221.0,,,
+Ball O' Hurt,Melee,Pre-Boss,70,200.0,,,
+Blade of Grass,Melee,Pre-Boss,70,180.0,,,
+Chain Knife,Melee,Pre-Boss,70,140.0,,,Only 2 Dummies
+Crimson Rod,Mage,Pre-Boss,70,100.0,,,
+Gold Shortsword,Melee,Pre-Boss,70,190.0,,,
+Ice Blade,Melee,Pre-Boss,70,180.0,40.0,,
+Platinum Shortsword,Melee,Pre-Boss,70,240.0,,,
+Spinal Tap,Summoner,Post-Skeletron,70,215.0,,,
+The Meatball,Melee,Post-Eye,70,240.0,,,
+Vampire Frog Staff,Summoner,Pre-Boss,70,200.0,,,
+Ballista Cane,Summoner,Post-Destroyer,65,200.0,,,
+Classy Cane,Melee,Post-WoF,65,180.0,,,
+Exotic Scimitar,Melee,Pre-Boss,65,190.0,,,
+Light's Bane,Melee,Post-Eye,65,160.0,,,
+Lightning Aura Staff,Summoner,Post-Golem,65,200.0,,,
+Pygmy Staff,Summoner,Post-Plantera,65,,,,Does not pierce
+Queen Spider Staff,Summoner,Post-WoF,65,,,,Does not pierce
+Ruler,Melee,Pre-Boss,65,220.0,,,
+Shroomerang,Melee,Pre-Boss,65,90.0,,,
+Space Gun,Mage,Post-Brain/Worm,65,200.0,,,
+Stylish Scissors,Melee,Pre-Boss,65,210.0,,,
+Trimarang,Melee,Pre-Boss,65,120.0,,,
+Star Anise,Ranger,Pre-Boss,64,188.0,,,
+Magic Missile,Mage,Post-Skeletron,63,185.0,,,
+Bone Throwing Knife,Ranger,Pre-Boss,62,208.0,,,
+Artery,Melee,Post-Eye,60,80.0,,,
+Flameburst Staff,Summoner,Post-Golem,60,115.0,,,Only two dummies
+Ice Boomerang,Melee,Pre-Boss,60,70.0,,,
+Katana,Melee,Pre-Boss,60,170.0,,,
+Malaise,Melee,Post-Eye,60,70.0,,,
+Mandible Blade,Melee,Pre-Boss,60,160.0,,,
+Pirate Staff,Summoner,Post-WoF,60,165.0,,,
+Purple Clubberfish,Melee,Pre-Boss,60,180.0,,,
+Rockfish,Melee,Pre-Boss,60,180.0,,,
+Snowball Cannon,Ranger,Pre-Boss,60,,,,Does not pierce
+The Rotted Fork,Melee,Post-Eye,60,200.0,,,
+Tungsten Shortsword,Melee,Pre-Boss,60,160.0,,,
+Vilethorn,Mage,Pre-Boss,60,200.0,,,
+Volcano,Melee,Post-Brain/Worm,60,180.0,,,
+Poisoned Knife,Ranger,Pre-Boss,56,123.0,,,Only two dummies
+Diamond Staff,Mage,Pre-Boss,55,131.0,,,Pierces 2 dummies
+Tentacle Spike,Melee,Pre-Boss,55,170.0,,,
+Trident,Melee,Pre-Boss,55,140.0,,,
+Blowgun,Ranger,Post-QueenSlime,52,,,,Does not pierce
+Pearlwood Bow,Ranger,Pre-Boss,52,,,,Does not pierce
+Rotten Egg,Ranger,Pre-Boss,52,,,,Does not pierce
+Abigail's Flower,Summoner,Pre-Boss,50,17.0,,,
+Blood Butcherer,Melee,Post-Brain/Worm,50,150.0,,,
+Bone Sword,Melee,Pre-Boss,50,140.0,,,
+Flymeal,Melee,Pre-Boss,50,150.0,,,
+Gold Broadsword,Melee,Pre-Boss,50,150.0,,,
+Lead Shortsword,Melee,Pre-Boss,50,130.0,,,
+Platinum Broadsword,Melee,Pre-Boss,50,160.0,,,
+Tendon Bow,Ranger,Post-Brain/Worm,50,,,,Does not pierce
+Throwing Knife,Ranger,Pre-Boss,50,112.0,,,Only two dummies
+Ruby Staff,Mage,Pre-Boss,49,117.0,,,Pierces 2 dummies
+Bone Javeline,Ranger,Pre-Boss,48,,,,
+Amber Staff,Mage,Pre-Boss,45,100.0,,,Only 2 Dummies
+Demon Bow,Ranger,Post-Brain/Worm,45,,,,Does not pierce
+Enchanted Boomerang,Melee,Pre-Boss,45,60.0,,,
+Flaming Mace,Melee,Pre-Boss,45,125.0,,,
+Mace,Melee,Pre-Boss,45,130.0,,,
+Rally,Melee,Pre-Boss,45,45.0,,,
+Silver Broadsword,Melee,Pre-Boss,45,120.0,,,
+Silver Shortsword,Melee,Pre-Boss,45,130.0,,,
+Snapthorn,Summoner,Pre-Boss,45,100.0,,,
+Thunder Zapper,Mage,Pre-Boss,45,,,,
+Javeline,Ranger,Pre-Boss,44,150.0,,,
+Red Ryder,Ranger,Pre-Boss,44,,,,Does not pierce
+Shuriken,Ranger,Pre-Boss,44,140.0,,,
+Platinum Bow,Ranger,Pre-Boss,42,,,,Does not pierce
+Weather Pain,Mage,Post-Deerclops,41,105.0,,,
+Ash Wood Sword,Melee,Pre-Boss,40,130.0,,,
+Bat Bat,Melee,Pre-Boss,40,130.0,,,
+Candy Cane Sword,Melee,Pre-Boss,40,120.0,,,
+Explosive Trap Cane,Summoner,Post-Destroyer,40,120.0,,,
+Iron Shortsword,Melee,Pre-Boss,40,120.0,,,
+Lead Broadsword,Melee,Pre-Boss,40,110.0,,,
+Spear,Melee,Pre-Boss,40,80.0,,,
+Tragic Umbrella,Melee,Pre-Boss,40,80.0,,,Only 2 Dummies
+Tungsten Broadsword,Melee,Pre-Boss,40,130.0,,,
+Zombie Arm,Melee,Pre-Boss,40,120.0,,,
+Ashwood Bow,Ranger,Pre-Boss,36,,,,Does not pierce
+Gold Bow,Ranger,Pre-Boss,36,,,,Does not pierce
+Emerald Staff,Mage,Pre-Boss,35,96.0,,,Pierces 2 dummies
+Tin Shortsword,Melee,Pre-Boss,35,110.0,,,
+Tungsten Bow,Ranger,Pre-Boss,34,,,,Does not pierce
+Blowpipe,Ranger,Pre-Boss,32,,,,Does not pierce
+Silver Bow,Ranger,Pre-Boss,32,,,,Does not pierce
+Lead Bow,Ranger,Pre-Boss,31,,,,Does not pierce
+Blade Staff,Summoner,Post-QueenSlime,30,85.0,,,
+Ebonwood Sword,Melee,Pre-Boss,30,100.0,,,
+Gravedigger's Shovel,Melee,Pre-Boss,30,100.0,,,
+Iron Broadsword,Melee,Pre-Boss,30,100.0,,,
+Leather Whip,Summoner,Pre-Boss,30,60.0,,,
+Sanguine Staff,Summoner,Post-WoF,30,120.0,,,
+Shadewood Sword,Melee,Pre-Boss,30,100.0,,,
+Slime Staff,Summoner,Pre-Boss,30,80.0,,,
+Tin Broadsword,Melee,Pre-Boss,30,85.0,,,
+Wooden Boomerang,Melee,Pre-Boss,30,40.0,,,
+Ebonwood Bow,Ranger,Pre-Boss,29,,,,Does not pierce
+Iron Bow,Ranger,Pre-Boss,29,,,,Does not pierce
+Shadewood Bow,Ranger,Pre-Boss,29,,,,Does not pierce
+Wand of Sparkling,Mage,Pre-Boss,28,64.0,,,Pierces 2 dummies
+Ale Tosser,Ranger,Post-Brain/Worm,27,,,,Does not pierce
+Copper Broadsword,Melee,Pre-Boss,27,75.0,,,
+Tin Bow,Ranger,Pre-Boss,26,,,,Does not pierce
+Ballista Rod,Summoner,Pre-Boss,25,80.0,,,
+Bloodrain Bow,Ranger,Pre-Boss,25,70.0,,,Does not pierce
+Copper Shortsword,Melee,Pre-Boss,25,70.0,,,
+Flameburst Cane,Summoner,Post-Destroyer,25,50.0,,,Only two dummies
+Palm Wood Sword,Melee,Pre-Boss,25,75.0,,,
+Sapphire Staff,Mage,Pre-Boss,25,,,,Does not pierce
+Sickle,Melee,Pre-Boss,25,70.0,,,
+Umbrella,Melee,Pre-Boss,25,50.0,,,Only 2 Dummies
+Palm Wood Bow,Ranger,Pre-Boss,24,,,,Does not pierce
+Boreal Wood Bow,Ranger,Pre-Boss,22,,,,Does not pierce
+Copper Bow,Ranger,Pre-Boss,22,,,,Does not pierce
+Rich Mahagony Bow,Ranger,Pre-Boss,22,,,,Does not pierce
+Topaz Staff,Mage,Pre-Boss,22,,,,Does not pierce
+Boreal Wood Sword,Melee,Pre-Boss,20,70.0,,,
+Breathing Reed,Melee,Pre-Boss,20,60.0,,,
+Houndius Shootius,Summoner,Post-Deerclops,20,,,,Does not pierce
+Lightning Aura Cane,Summoner,Post-Destroyer,20,60.0,,,
+Rich Mahogany Sword,Melee,Pre-Boss,20,70.0,,,
+Wooden Bow,Ranger,Pre-Boss,20,,,,Does not pierce
+Wooden Sword,Melee,Pre-Boss,20,60.0,,,
+Wooden Yoyo,Melee,Pre-Boss,20,30.0,,,Only 2 Dummies
+Amethyst Staff,Mage,Pre-Boss,18,,,,Does not pierce
+Cactus Sword,Melee,Pre-Boss,18,55.0,,,
+Explosive Trap Rod,Summoner,Pre-Boss,15,45.0,,,
+Hornet Staff,Summoner,Post-QueenBee,15,,,,Does not pierce
+Imp Staff,Summoner,Post-Brain/Worm,15,75.0,,,
+Paper Plane,Ranger,Pre-Boss,14,,,,Does not pierce
+Finch Staff,Summoner,Pre-Boss,10,25.0,,,
+Flameburst Rod,Summoner,Pre-Boss,8,18.0,,,Only two dummies
+Flinx Staff,Summoner,Pre-Boss,8,70.0,,,
+Lightning Aura Rod,Summoner,Pre-Boss,8,24.0,,,
